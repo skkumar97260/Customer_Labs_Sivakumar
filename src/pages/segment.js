@@ -12,7 +12,7 @@ const Main = () => {
           View Audience
         </header>
         <Link to="/save" className="save_btn">
-          Save Segment
+          Save Segments
         </Link>
       </div>
     </div>
